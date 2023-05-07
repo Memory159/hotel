@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    position: relative;
+}
+
+button{
+    position: absolute;
+    right: 76px;
+    top: -55px;
+    background-color: #dd4c40;
+    width: 120px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 22px;
+    font-weight: 800;
+    color: #ffffff;
+    border: none;
+}

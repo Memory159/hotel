@@ -1,0 +1,12 @@
+.tr1 {
+    background-color: #2f4050;
+}
+.tr2{
+    color: #233645;
+}
+.tr2{
+    position: relative;
+}
+.tr2:hover .cuo{
+    display: block;
+}

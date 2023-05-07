@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [04/Dec/2022:20:49:52 +0800] "GET / HTTP/1.1" 200 934 http-bio-8080-exec-1 55
+0:0:0:0:0:0:0:1 - - [04/Dec/2022:20:49:52 +0800] "GET /css/userLogin.css HTTP/1.1" 200 2039 http-bio-8080-exec-3 2
+0:0:0:0:0:0:0:1 - - [04/Dec/2022:20:49:52 +0800] "GET /imgs/login.jfif HTTP/1.1" 200 209644 http-bio-8080-exec-4 3
+0:0:0:0:0:0:0:1 - - [04/Dec/2022:20:49:59 +0800] "GET /login/logCustomer?username=lisi&password=123 HTTP/1.1" 302 - http-bio-8080-exec-5 368
+0:0:0:0:0:0:0:1 - - [04/Dec/2022:20:49:59 +0800] "GET /room/customerRoomOperate HTTP/1.1" 200 17928 http-bio-8080-exec-6 498
+0:0:0:0:0:0:0:1 - - [04/Dec/2022:20:49:59 +0800] "GET /css/index.css HTTP/1.1" 200 4095 http-bio-8080-exec-7 3
+0:0:0:0:0:0:0:1 - - [04/Dec/2022:20:49:59 +0800] "GET /imgs/danRoom.jfif HTTP/1.1" 200 141687 http-bio-8080-exec-8 2
+0:0:0:0:0:0:0:1 - - [04/Dec/2022:20:49:59 +0800] "GET /imgs/haoRoom.jfif HTTP/1.1" 200 499191 http-bio-8080-exec-9 3
+0:0:0:0:0:0:0:1 - - [04/Dec/2022:20:49:59 +0800] "GET /imgs/riverRoom.jfif HTTP/1.1" 200 223650 http-bio-8080-exec-10 2
+0:0:0:0:0:0:0:1 - - [04/Dec/2022:20:49:59 +0800] "GET /imgs/cityRoom.jpg HTTP/1.1" 200 88856 http-bio-8080-exec-10 1
+0:0:0:0:0:0:0:1 - - [04/Dec/2022:20:49:59 +0800] "GET /imgs/mountain.jfif HTTP/1.1" 200 34889 http-bio-8080-exec-10 1
+0:0:0:0:0:0:0:1 - - [04/Dec/2022:20:49:59 +0800] "GET /imgs/seaRoom.jfif HTTP/1.1" 200 130446 http-bio-8080-exec-10 2

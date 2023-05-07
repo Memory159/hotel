@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [13/Oct/2022:13:17:39 +0800] "GET / HTTP/1.1" 200 934 http-bio-8080-exec-1 59
+0:0:0:0:0:0:0:1 - - [13/Oct/2022:13:23:47 +0800] "GET /register.jsp HTTP/1.1" 200 3244 http-bio-8080-exec-4 47
+0:0:0:0:0:0:0:1 - - [13/Oct/2022:13:23:47 +0800] "GET /css/register.css HTTP/1.1" 200 3369 http-bio-8080-exec-6 3
+0:0:0:0:0:0:0:1 - - [13/Oct/2022:13:23:47 +0800] "GET /imgs/register.jfif HTTP/1.1" 200 266345 http-bio-8080-exec-7 4
+0:0:0:0:0:0:0:1 - - [13/Oct/2022:13:23:48 +0800] "GET /login/CheckCode HTTP/1.1" 200 2930 http-bio-8080-exec-5 273
+0:0:0:0:0:0:0:1 - - [13/Oct/2022:13:28:23 +0800] "GET /userLogin.jsp HTTP/1.1" 200 919 http-bio-8080-exec-10 3

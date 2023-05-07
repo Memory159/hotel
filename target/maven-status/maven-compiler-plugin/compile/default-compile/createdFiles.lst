@@ -1,0 +1,5 @@
+com\mapper\GoodsMapper.class
+com\service\GoodsService.class
+com\bean\Goods.class
+com\servlet\GoodsServlet.class
+com\servlet\filter\loginFilter.class

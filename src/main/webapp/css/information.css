@@ -1,0 +1,59 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+input {
+    /* border: none; */
+    outline: none;
+}
+
+body {
+    background-color: #f1f1f1;
+    height: 100%;
+}
+
+.big-box h1 {
+    width: 200px;
+    height: 50px;
+    margin: 50px auto;
+    text-align: center;
+    background-color: #233645;
+    color: #f1f1f1;
+}
+
+.big-box p {
+    height: 30px;
+    margin: 50px 0px 50px 620px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.big-box input {
+    width: 200px;
+    height: 30px;
+    font-size: 18px;
+}
+
+#nan {
+    width: 25px;
+    height: 25px;
+}
+
+#nv {
+    width: 25px;
+    height: 25px;
+}
+
+.big-box button {
+    width: 200px;
+    height: 50px;
+    background-color: #233645;
+    margin-left: 550px;
+    color: #f1f1f1;
+    font-size: 18px;
+}
+
+.big-box .btn {
+    margin-left: 20px;
+}

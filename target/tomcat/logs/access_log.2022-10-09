@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [09/Oct/2022:14:01:43 +0800] "GET / HTTP/1.1" 200 934 http-bio-8080-exec-1 64
+0:0:0:0:0:0:0:1 - - [09/Oct/2022:14:01:54 +0800] "GET /login/logCustomer?username=lisi&password=123 HTTP/1.1" 302 - http-bio-8080-exec-3 308
+0:0:0:0:0:0:0:1 - - [09/Oct/2022:14:01:54 +0800] "GET /room/customerRoomOperate HTTP/1.1" 200 18571 http-bio-8080-exec-4 31
+0:0:0:0:0:0:0:1 - - [09/Oct/2022:14:01:55 +0800] "GET /reserve.jsp?id=1 HTTP/1.1" 200 4342 http-bio-8080-exec-5 5
+0:0:0:0:0:0:0:1 - - [09/Oct/2022:14:01:56 +0800] "GET /room/selectById?id=1 HTTP/1.1" 200 215 http-bio-8080-exec-6 86
+0:0:0:0:0:0:0:1 - - [09/Oct/2022:14:02:13 +0800] "GET /room/reserveRoom?id=1&roomImg=http://localhost:8080/imgs/danRoom.jfif&type=%E5%8D%95%E4%BA%BA%E6%88%BF&bookingTime=2022-10-14&leaveTime=2022-10-22&customerName=%E8%90%A8%E5%98%8E&telephone=265445&identity=56487689579&userid=1 HTTP/1.1" 302 - http-bio-8080-exec-7 20
+0:0:0:0:0:0:0:1 - - [09/Oct/2022:14:02:13 +0800] "GET /room/customerRoomOperate HTTP/1.1" 200 18571 http-bio-8080-exec-8 4
+0:0:0:0:0:0:0:1 - - [09/Oct/2022:14:02:20 +0800] "GET /bookingList/myOrder?userid=1 HTTP/1.1" 200 2844 http-bio-8080-exec-9 13
+0:0:0:0:0:0:0:1 - - [09/Oct/2022:14:02:32 +0800] "GET /room/customerRoomOperate HTTP/1.1" 200 18571 http-bio-8080-exec-10 7
